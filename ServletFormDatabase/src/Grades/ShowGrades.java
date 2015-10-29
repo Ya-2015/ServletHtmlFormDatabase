@@ -102,7 +102,7 @@ public class ShowGrades extends HttpServlet {
 		out.println("</tbody>");
 		out.println("</table>");
 		out.println("<form action=\"ShowAverage\">");
-		out.println("<button type=\"submit\" class=\"btn btn-default\">Submit</button>");
+		out.println("<button type=\"submit\" class=\"btn btn-default\">Show Average</button>");
 		out.println("</form>");
 		out.println("</div>");
 		
